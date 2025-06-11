@@ -1,4 +1,4 @@
-var images = ['images/En1.jpg'];
+var images = ['En1.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
